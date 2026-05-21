@@ -1,1 +1,5 @@
 # mammal-sleep-model
+
+Målet med denne oppgaven var å identifisere hvilke egenskaper som har sammenheng med søvn og hvordan disse sammenhengene er, for å komme fram til en statistisk modell som best kan beskrive søvnen hos pattedyr. Datasettet som er brukt, sleep.txt, ineholder 11 registeret variabler fra 61 forskjellige arter i klassen pattedyr. Gjennom oppgaven har det vært en grundig gjennomgang av både total søvn og drømme søvn, samt funnet de optimale modellene for hver av disse. Disse modellen har deretter blitt brukt for å predikere søvnen til et menneske. 
+
+Gjennom oppgaven, og resultatene fra prediksjonen til mennesker, ser vi at modellene ikke er de aller beste. dette skyldes lite og urelevant data. Der ikke alle pattedyr er like, og ikke alle er like gode for å bruke til å predikere mennesker. Om dataene hadde fokusert mer på pattedyr som var mer like mennesker, eller det hadde blitt brukt et større datasett, hadde modellene trolig være mye bedre. 
